@@ -11,4 +11,4 @@ A JavaScript application for shopping cart which can add and delete items for th
 ### Features
 - Website is fully responsive
 
-[Visit Website] (https://kumarishwetha.com/shopping-cart/)
+[Visit Website](https://kumarishwetha.com/shopping-cart/)
